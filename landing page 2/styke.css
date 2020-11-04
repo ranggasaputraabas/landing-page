@@ -1,0 +1,41 @@
+.logo img{
+    float: left;
+    width: 300px;
+    height: auto;
+}
+
+p{
+    font-family:Berlin Sans FB;
+}
+
+
+.table1 {
+    font-family: sans-serif;
+    color: #232323;
+    border-collapse: collapse;
+}
+ 
+.table1, th, td {
+    border: 1px solid #999;
+    padding: 8px 20px;
+}
+
+td{
+    text-align: center;
+    font-style: italic;
+
+}
+
+.l1{
+   width: 300px;
+   height: 25px;
+}
+.l2{
+    width: 300px ;
+    height: 25px;
+    
+}
+.l3{
+    width: 300px;
+    height: 25px;
+}
